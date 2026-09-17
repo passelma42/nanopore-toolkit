@@ -1,7 +1,7 @@
 [workspace]
 authors = ["passelma42 <pieter.asselman@ugent.be>"]
 channels = ["conda-forge", "bioconda", "hcc"]
-name = "nanopack-toolkit"
+name = "nanopore-toolkit"
 platforms = ["osx-arm64", "linux-64"]
 version = "0.1.0"
 
